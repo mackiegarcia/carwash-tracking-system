@@ -22,13 +22,3 @@ const washServices = {
 }
 
 export default { vehicleTypes, washServices };
-
-// Vehicles
-// {
-//   id,
-//   plateNumber,
-//   type,
-//   model,
-//   createdAt,
-//   updatedAt,
-// }

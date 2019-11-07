@@ -62,3 +62,6 @@
 2019-11-07T14:47:27.304205778 10337.634594s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: Added replica on this server.
 2019-11-07T14:47:27.304227147 10337.634615s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: Starting a new Raft election for term 1.
 2019-11-07T14:47:27.307560518 10337.637949s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: This server is Raft leader for term 1. Latest log index is 0.
+2019-11-07T16:27:39.966145675 16350.296535s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: Added replica on this server.
+2019-11-07T16:27:39.966381600 16350.296770s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: Starting a new Raft election for term 1.
+2019-11-07T16:27:39.971335351 16350.301724s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: This server is Raft leader for term 1. Latest log index is 0.

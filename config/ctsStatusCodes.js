@@ -23,6 +23,10 @@ const statusCode = {
     status: 476,
     error: 'Job id doesnt exists!'
   },
+  WS_ID_NOT_PROVIDED: {
+    status: 475,
+    error: 'Wash Service id not provided!'
+  }
 }
 
 export default statusCode;
