@@ -10,7 +10,19 @@ const statusCode = {
   VEHICLE_NOT_EXISTS: {
     status: 473,
     error: 'Vechicle id doesnt exists!'
-  }
+  },
+  VEHICLE_ID_NOT_PROVIDED: {
+    status: 474,
+    error: 'Vechicle id not provided!'
+  },
+  JOB_ID_NOT_PROVIDED: {
+    status: 475,
+    error: 'Job id not provided!'
+  },
+  JOB_NOT_EXISTS: {
+    status: 476,
+    error: 'Job id doesnt exists!'
+  },
 }
 
 export default statusCode;

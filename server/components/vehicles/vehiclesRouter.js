@@ -155,7 +155,7 @@ router.put('/update', async (req, res) => {
       }
     }
 
-    return res.send(oldVehicleRecord);
+    return res.send(result);
   } catch(error){
     result = {status: 500, error};
 

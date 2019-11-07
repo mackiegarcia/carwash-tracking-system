@@ -59,3 +59,6 @@
 2019-11-07T11:55:09.728972723 0.059361s notice: Server ready, "pop_os_h7w" 25b569b2-7fad-44f6-bcbe-d3dad5e74f87
 2019-11-07T11:55:11.243538521 1.573928s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: Starting a new Raft election for term 2.
 2019-11-07T11:55:11.251310317 1.581700s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: This server is Raft leader for term 2. Latest log index is 3.
+2019-11-07T14:47:27.304205778 10337.634594s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: Added replica on this server.
+2019-11-07T14:47:27.304227147 10337.634615s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: Starting a new Raft election for term 1.
+2019-11-07T14:47:27.307560518 10337.637949s info: Table 1f10ab9c-44c1-4390-98de-2088630ba140: This server is Raft leader for term 1. Latest log index is 0.
