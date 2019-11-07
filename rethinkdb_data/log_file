@@ -1,0 +1,61 @@
+2019-11-07T08:08:49.497385061 0.010596s notice: Recursively removing directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data/tmp
+2019-11-07T08:08:49.505281736 0.018495s notice: Initializing directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data
+2019-11-07T08:08:49.505375744 0.018586s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data' did not already exist or is empty.)
+2019-11-07T08:08:49.505404775 0.018615s notice: Running rethinkdb 2.3.7~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2019-11-07T08:08:49.508089881 0.021303s notice: Running on Linux 5.0.0-23-generic x86_64
+2019-11-07T08:08:49.508166775 0.021377s notice: Loading data from directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data
+2019-11-07T08:08:49.542025823 0.055238s info: Automatically using cache size of 6178 MB
+2019-11-07T08:08:49.545346208 0.058557s notice: Listening for intracluster connections on port 29015
+2019-11-07T08:08:49.551373989 0.064584s notice: Listening for client driver connections on port 28015
+2019-11-07T08:08:49.551495718 0.064706s notice: Listening for administrative HTTP connections on port 8080
+2019-11-07T08:08:49.551499203 0.064709s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-11-07T08:08:49.551505536 0.064716s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-11-07T08:08:49.551507746 0.064718s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-11-07T08:08:49.551512188 0.064722s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-11-07T08:08:49.551516598 0.064727s notice: Server ready, "pop_os_h7w" 25b569b2-7fad-44f6-bcbe-d3dad5e74f87
+2019-11-07T08:11:25.940287692 156.453504s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2019-11-07T08:11:25.940599741 156.453811s notice: Shutting down client connections...
+2019-11-07T08:11:25.941076185 156.454287s notice: All client connections closed.
+2019-11-07T08:11:25.941114842 156.454325s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-11-07T08:11:25.945387934 156.458599s notice: Storage engine shut down.
+2019-11-07T08:11:35.513256328 0.015015s notice: Running rethinkdb 2.3.7~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2019-11-07T08:11:35.519418532 0.021162s notice: Running on Linux 5.0.0-23-generic x86_64
+2019-11-07T08:11:35.519520152 0.021261s notice: Loading data from directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data
+2019-11-07T08:11:35.532696507 0.034440s info: Automatically using cache size of 6192 MB
+2019-11-07T08:11:35.533501815 0.035242s notice: Listening for intracluster connections on port 29015
+2019-11-07T08:11:35.534319905 0.036060s notice: Listening for client driver connections on port 28015
+2019-11-07T08:11:35.534458877 0.036199s notice: Listening for administrative HTTP connections on port 8080
+2019-11-07T08:11:35.534462472 0.036203s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-11-07T08:11:35.534468389 0.036209s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-11-07T08:11:35.534471910 0.036212s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-11-07T08:11:35.534477749 0.036218s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-11-07T08:11:35.534483474 0.036224s notice: Server ready, "pop_os_h7w" 25b569b2-7fad-44f6-bcbe-d3dad5e74f87
+2019-11-07T08:15:26.607047842 0.005267s notice: Running rethinkdb 2.3.7~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2019-11-07T08:15:26.611054009 0.009275s notice: Running on Linux 5.0.0-23-generic x86_64
+2019-11-07T08:15:26.611128590 0.009344s notice: Loading data from directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data
+2019-11-07T08:15:26.622395214 0.020612s info: Automatically using cache size of 6633 MB
+2019-11-07T08:15:26.622982746 0.021198s notice: Listening for intracluster connections on port 29015
+2019-11-07T08:15:26.623909369 0.022125s notice: Listening for client driver connections on port 28015
+2019-11-07T08:15:26.624051643 0.022267s notice: Listening for administrative HTTP connections on port 8080
+2019-11-07T08:15:26.624055228 0.022270s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-11-07T08:15:26.624060956 0.022276s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-11-07T08:15:26.624064475 0.022280s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-11-07T08:15:26.624070239 0.022285s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-11-07T08:15:26.624076333 0.022291s notice: Server ready, "pop_os_h7w" 25b569b2-7fad-44f6-bcbe-d3dad5e74f87
+2019-11-07T08:52:56.807366724 2250.205583s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: Starting a new Raft election for term 1.
+2019-11-07T08:52:56.807762866 2250.205978s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: Added replica on this server.
+2019-11-07T08:52:56.812565418 2250.210781s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: This server is Raft leader for term 1. Latest log index is 0.
+2019-11-07T11:55:09.679937391 0.010331s notice: Running rethinkdb 2.3.7~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2019-11-07T11:55:09.683151339 0.013543s notice: Running on Linux 5.0.0-23-generic x86_64
+2019-11-07T11:55:09.683231651 0.013620s notice: Loading data from directory /home/developer/Development/Repository/Mackie/carwash-tracking-system/rethinkdb_data
+2019-11-07T11:55:09.706361942 0.036752s info: Automatically using cache size of 6468 MB
+2019-11-07T11:55:09.710503559 0.040892s notice: Listening for intracluster connections on port 29015
+2019-11-07T11:55:09.728832812 0.059221s notice: Listening for client driver connections on port 28015
+2019-11-07T11:55:09.728954687 0.059343s notice: Listening for administrative HTTP connections on port 8080
+2019-11-07T11:55:09.728957947 0.059346s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-11-07T11:55:09.728963912 0.059352s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-11-07T11:55:09.728966262 0.059354s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-11-07T11:55:09.728970575 0.059359s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-11-07T11:55:09.728972723 0.059361s notice: Server ready, "pop_os_h7w" 25b569b2-7fad-44f6-bcbe-d3dad5e74f87
+2019-11-07T11:55:11.243538521 1.573928s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: Starting a new Raft election for term 2.
+2019-11-07T11:55:11.251310317 1.581700s info: Table 9979844c-096a-419a-ade3-b2be5a3bc7eb: This server is Raft leader for term 2. Latest log index is 3.

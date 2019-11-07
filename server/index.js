@@ -3,6 +3,6 @@ import vehicles from './components/vehicles/vehiclesRouter.js';
 const app = express();
 const port = 5000;
 
-app.use('/things', vehicles);
+app.use('/vehicles', vehicles);
 
 app.listen(port, () => console.log(`Sever started on port ${port}`));
