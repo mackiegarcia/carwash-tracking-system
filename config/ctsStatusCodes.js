@@ -24,7 +24,7 @@ const statusCode = {
     error: 'Job id doesnt exists!'
   },
   WS_ID_NOT_PROVIDED: {
-    status: 475,
+    status: 477,
     error: 'Wash Service id not provided!'
   }
 }

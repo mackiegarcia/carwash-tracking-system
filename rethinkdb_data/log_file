@@ -65,3 +65,9 @@
 2019-11-07T16:27:39.966145675 16350.296535s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: Added replica on this server.
 2019-11-07T16:27:39.966381600 16350.296770s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: Starting a new Raft election for term 1.
 2019-11-07T16:27:39.971335351 16350.301724s info: Table 7c26ed48-a6aa-4e2e-857e-a3b26655a072: This server is Raft leader for term 1. Latest log index is 0.
+2019-11-07T17:09:27.496183888 18857.826573s notice: Server got SIGTERM from pid 2024, uid 1000; shutting down...
+2019-11-07T17:09:27.496262732 18857.826651s notice: Shutting down client connections...
+2019-11-07T17:09:27.496432796 18857.826821s notice: All client connections closed.
+2019-11-07T17:09:27.496436548 18857.826825s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-11-07T17:09:27.508706194 18857.839095s notice: Storage engine shut down.
+2019-11-07T17:09:27.510343720 18857.840732s error: Failed to shutdown worker process: 'failed to send job function to worker'.  Killing it.

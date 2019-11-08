@@ -1,0 +1,10 @@
+.cts-header {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  background-color: #000000;
+}
+
+.cts-header__title {
+  color: #ffd700;
+}
