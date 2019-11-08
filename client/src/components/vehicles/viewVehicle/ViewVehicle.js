@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-import './viewJob.css';
+import './viewVehicle.css';
 
-class ViewJob extends Component {
+class ViewVehicle extends Component {
   render() {
     return (
-      <div className="cts-view-job modal fade" id="viewJobModal" tabIndex="-1" role="dialog" aria-hidden="true">
+      <div className="cts-view-vehicle modal fade" id="viewVehicleModal" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog" role="document">
           <div className="modal-content">
             <div className="modal-header">
-              <h5 className="modal-title" id="exampleModalLabel">Job[]</h5>
+              <h5 className="modal-title" id="exampleModalLabel">Vehicle[]</h5>
               <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
@@ -42,4 +42,4 @@ class ViewJob extends Component {
   }
 }
 
-export default ViewJob;
+export default ViewVehicle;

@@ -9,9 +9,9 @@ class Jobs extends Component {
   render() {
     return (
       <div className="cts-jobs container">
-        <div class="btn-toolbar justify-content-between" role="toolbar">
+        <div className="btn-toolbar justify-content-between" role="toolbar">
           <AddJob />
-          <div class="input-group">
+          <div className="input-group">
             <SearchJob />
           </div>
         </div>

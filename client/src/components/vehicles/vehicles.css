@@ -1,0 +1,11 @@
+.cts-jobs {
+  padding: 15px 15px;
+}
+
+.cts-jobs__form-container {
+  background-color: red;
+}
+
+.cts-jobs__table-container {
+  background-color: blue;
+}

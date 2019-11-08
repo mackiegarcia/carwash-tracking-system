@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './listJobs.css';
+import './listVehicles.css';
 
-class ListJobs extends Component {
+class ListVehicles extends Component {
   render() {
     return (
-      <div className="cts-list-jobs">
+      <div className="cts-list-vehicles">
         <table className="table table-striped">
           <thead>
             <tr>
@@ -41,4 +41,4 @@ class ListJobs extends Component {
   }
 }
 
-export default ListJobs;
+export default ListVehicles;
