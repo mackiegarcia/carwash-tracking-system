@@ -9,13 +9,17 @@ class ListJobs extends Component {
           <thead>
             <tr>
               <th scope="col">Plate Number</th>
+              <th scope="col">Car Model</th>
               <th scope="col">Start</th>
               <th scope="col">End</th>
+              <th scope="col">Time In Dock</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <th scope="row">TEST-PLATE</th>
+              <td>TEST TIME</td>
+              <td>TEST TIME</td>
               <td>TEST TIME</td>
               <td>TEST TIME</td>
             </tr>
