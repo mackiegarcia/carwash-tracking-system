@@ -14,9 +14,9 @@ class ViewJob extends Component {
               </button>
             </div>
             <div className="modal-body">
-              <div class="form-group">
+              <div className="form-group">
                 <label for="sel1">Plate No.:</label>
-                <select class="form-control" id="sel1">
+                <select className="form-control" id="sel1">
                   <option>1</option>
                   <option>2</option>
                   <option>3</option>
@@ -25,13 +25,13 @@ class ViewJob extends Component {
               </div>
               <label for="sel1">Services.:</label>
               <br />
-              <div class="form-check-inline">
-                <label class="form-check-label">
-                  <input type="checkbox" class="form-check-input" value="" />Option 1
+              <div className="form-check-inline">
+                <label className="form-check-label">
+                  <input type="checkbox" className="form-check-input" value="" />Option 1
                 </label>
               </div>
             </div>
-            <div class="modal-footer">
+            <div className="modal-footer">
               <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
               <button type="button" className="btn btn-primary">Save changes</button>
             </div>
