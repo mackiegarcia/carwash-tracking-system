@@ -22,7 +22,7 @@
   "dependencies": {
     "concurrently": "^5.0.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "rethinkdb": "^2.3.3"
   },
   "devDependencies": {
